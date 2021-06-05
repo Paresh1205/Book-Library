@@ -1,0 +1,10 @@
+.formData{
+    display: flex;
+    flex-direction: column;
+}
+.submitBtn{
+    width: 100px;
+}
+label p{
+    color:red;
+}

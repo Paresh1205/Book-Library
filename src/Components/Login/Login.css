@@ -1,0 +1,11 @@
+.loginContainer{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.loginContainer .buttons{
+    display:flex;
+    justify-content: space-around;
+    width: 500px;
+    margin: 30px 0px;
+}
